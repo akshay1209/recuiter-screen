@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@company.com",
+      "mobile": "+1234567890",
+      "logo": "/path/to/logo1.jpg",
+      "openings": "23 candidates",
+      "shortlisted": "10 candidates",
+      "interviewed": "5 candidates",
+      "offered": "2 candidates"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@company.com",
+      "mobile": "+0987654321",
+      "logo": "/path/to/logo2.jpg",
+      "openings": "50 candidates",
+      "shortlisted": "20 candidates",
+      "interviewed": "15 candidates",
+      "offered": "8 candidates"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "email": "michael.brown@company.com",
+      "mobile": "+1230984567",
+      "logo": "/path/to/logo3.jpg",
+      "openings": "40 candidates",
+      "shortlisted": "18 candidates",
+      "interviewed": "12 candidates",
+      "offered": "6 candidates"
+    }
+  ]
+  
